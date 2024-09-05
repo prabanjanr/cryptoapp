@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="navbar">
         <FaCoins className="icon" />
         <h1>
-          Coin <span className="purple">Search</span>
+          Crypto <span className="purple">Stat</span>
         </h1>
       </div>
     </Link>
